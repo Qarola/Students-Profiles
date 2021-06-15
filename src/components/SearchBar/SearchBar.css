@@ -1,0 +1,35 @@
+.search-bar {
+    font-family: "Raleway", sans-serif;
+    margin: 20px 20px 0 20px;
+    border-bottom: 1px solid lightgray;
+    width: 90%;
+    padding: 15px;
+    font-size: 10px;
+    position: sticky;
+    outline: none;
+    z-index: 1;
+    border: none;
+    top: 10px;
+}
+
+.search-TagBar {
+    font-size: 10px;
+    width: 25%;
+    padding: 5px;
+    margin: 10px;
+    z-index: unset;
+    top: unset;
+    position: unset;
+    border: none;
+}
+
+@media (max-width: 800px) {
+    .search-Bar {
+        font-size: 10px;
+        width: 80%;
+    }
+    .search-TagBar {
+        font-size: 10px;
+        width: 80%;
+    }
+} 

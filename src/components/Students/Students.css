@@ -1,0 +1,74 @@
+.student-card {
+    border-bottom: 1px solid lightgray;
+    margin: 5px 30px;
+    display: flex;
+}
+    
+.student-ctn {
+    margin-bottom: 10px;
+    color: gray;
+    width: 80%;
+}
+
+.student-title {
+    color: black;
+    text-transform: uppercase;
+}
+
+.student-img {
+    border: 1px solid grey;
+    margin-right: 20px;
+    margin-top: 15px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.tag-ctn {
+    display: inline;
+    width: 60%;  
+}
+
+.student-tag {
+    background-color: lightgray;
+    padding: 5px;
+    margin: 10px;
+    width: 60%;
+    border-radius: 20%;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    width: 20px;
+    height: 20px;
+   
+}
+
+.icon {
+    transform: 200ms;       
+}
+
+.icon:hover {
+    transform: 200ms;
+    color: black !important;
+    
+}
+
+
+@media (max-width: 800px) {
+    .student-card {
+        width: 250px;
+    }
+    .student-img {
+        width: 70px;
+        height: 70px;
+    }
+    .student-btn {
+        width: 10px;
+        height: 10px;
+    }
+    .student-title {
+        font-size: 20px;
+    }
+} 
