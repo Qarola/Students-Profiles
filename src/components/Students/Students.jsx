@@ -97,12 +97,5 @@ export default function Students({ student: {firstName, lastName,  pic, company,
  
 
 
- /* Render tags based on the results of filtered array ----------> linea 64/}
-
-    {/* Click expand button, Toggle plus icon and show student's expandable list view -------> linea 80
-    
-     <p>Test {`Test ${index + 1}: ${grade}%`}</p> 
-    
-    */
-
+ 
 
