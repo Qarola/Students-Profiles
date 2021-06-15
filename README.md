@@ -1,7 +1,8 @@
 
 # Students Profiles app
 
-![image](https://user-images.githubusercontent.com/67078790/122135386-fecdf180-ce05-11eb-9707-5ff12ffd9afb.png)
+![image](https://user-images.githubusercontent.com/67078790/122135465-2cb33600-ce06-11eb-8c01-92bd54711524.png)
+
 
 
 Getting Started with Create React App
