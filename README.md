@@ -1,6 +1,9 @@
 
 # Students Profiles app
 
+![image](https://user-images.githubusercontent.com/67078790/122135386-fecdf180-ce05-11eb-9707-5ff12ffd9afb.png)
+
+
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
