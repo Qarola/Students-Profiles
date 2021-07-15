@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Students from './components/Students/Students.jsx';
 import SearchBar from './components/SearchBar/SearchBar.jsx';
 
+
 import './App.css';
 
  function App() {
@@ -15,7 +16,7 @@ import './App.css';
    //Fetch students from API...
    const getStudents =  () => {
     try {
-       fetch('https://api.hatchways.io/assessment/students')
+       fetch('https://hw.io/api/assessment/students')
         .then((response) => {
          return response.json();
         })
